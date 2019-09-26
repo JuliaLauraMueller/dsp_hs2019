@@ -1,0 +1,6 @@
+*.ipynb_checkpoints/
+*__pycache__/
+*.nbgrader.log
+*.swp
+*.DS_Store
+*octave-workspace
