@@ -21,9 +21,9 @@
 13,"AHMED, Mr Ali",Male,24.0,True,True,3rd Class Passenger,7.05,Southampton,General Labourer,unknown,False
 16,"AKERMAN, Mr Albert Edward",Male,31.0,True,False,Victualling Crew,0.0,Southampton,3rd Class Steward,unknown,False
 15,"AKERMAN, Mr Joseph Francis",Male,37.0,True,False,Victualling Crew,0.0,Southampton,Assistant Pantryman Steward,[205],False
-1503,"AKS, Master Philip",Male,0.8,False,True,3rd Class Passenger,9.35,Southampton,unknown,11,True
+1503,"AKS, Master Philip",Male,0.833,False,True,3rd Class Passenger,9.35,Southampton,unknown,11,True
 1504,"AKS, Mrs Leah",Female,21.0,True,True,3rd Class Passenger,9.35,Southampton,unknown,13,True
-1505,"AL-BA'QLĪNĪ, Miss Hilānah",Female,0.8,False,True,3rd Class Passenger,19.258333333333333,Cherbourg,unknown,C,True
+1505,"AL-BA'QLĪNĪ, Miss Hilānah",Female,0.75,False,True,3rd Class Passenger,19.258333333333333,Cherbourg,unknown,C,True
 1506,"AL-BA'QLĪNĪ, Miss Mārīyā",Female,5.0,False,True,3rd Class Passenger,19.258333333333333,Cherbourg,unknown,C,True
 1507,"AL-BA'QLĪNĪ, Miss Ūwjīnīyā",Female,3.0,False,True,3rd Class Passenger,19.258333333333333,Cherbourg,unknown,C,True
 1508,"AL-BA'QLĪNĪ, Mrs Laṭīfah",Female,23.0,True,True,3rd Class Passenger,19.258333333333333,Cherbourg,unknown,C,True
@@ -40,7 +40,7 @@
 25,"ALLEN, Mr Henry",Male,30.0,True,False,Engineering Crew,0.0,Southampton,Fireman,[145],False
 26,"ALLEN, Mr Robert Spencer",Male,35.0,True,False,Victualling Crew,0.0,Southampton,Bedroom Steward (1st Class),unknown,False
 24,"ALLEN, Mr William Henry",Male,39.0,True,True,3rd Class Passenger,8.05,Southampton,Tool Maker,unknown,False
-1512,"ALLISON, Master Hudson Trevor",Male,0.9,False,True,1st Class Passenger,151.8,Southampton,unknown,11,True
+1512,"ALLISON, Master Hudson Trevor",Male,0.917,False,True,1st Class Passenger,151.8,Southampton,unknown,11,True
 29,"ALLISON, Miss Helen Loraine",Female,2.0,False,True,1st Class Passenger,151.8,Southampton,unknown,unknown,False
 28,"ALLISON, Mrs Bess Waldo",Female,25.0,True,True,1st Class Passenger,151.8,Southampton,unknown,unknown,False
 27,"ALLISON, Mr Hudson Joshua Creighton",Male,30.0,True,True,1st Class Passenger,151.8,Southampton,Businessman,[135],False
@@ -315,7 +315,7 @@
 223,"CAIRNS, Mr Alexander Milne",Male,28.0,True,True,1st Class Passenger,31.0,Southampton,Servant,unknown,False
 1592,"CALDERHEAD, Mr Edward Pennington",Male,42.0,True,True,1st Class Passenger,26.2875,Southampton,unknown,5,True
 224,"CALDERWOOD, Mr Hugh",Male,33.0,True,False,Engineering Crew,0.0,Belfast,Trimmer,unknown,False
-1593,"CALDWELL, Master Alden Gates",Male,0.8,False,True,2nd Class Passenger,29.0,Southampton,unknown,13,True
+1593,"CALDWELL, Master Alden Gates",Male,0.833,False,True,2nd Class Passenger,29.0,Southampton,unknown,13,True
 1595,"CALDWELL, Mrs Sylvia Mae",Female,28.0,True,True,2nd Class Passenger,29.0,Southampton,unknown,13,True
 1594,"CALDWELL, Mr Albert Francis",Male,26.0,True,True,2nd Class Passenger,29.0,Southampton,unknown,13,True
 1596,"CAMERON, Miss Clear Annie",Female,35.0,True,True,2nd Class Passenger,21.0,Southampton,Personal Maid,14,True
@@ -486,7 +486,7 @@
 1653,"DALY, Miss Margaret",Female,33.0,True,True,3rd Class Passenger,6.95,Queenstown,Seamstress,15,True
 1654,"DALY, Mr Eugene Patrick",Male,29.0,True,True,3rd Class Passenger,7.75,Queenstown,Farm Labourer,B,True
 1655,"DALY, Mr Peter Dennis",Male,51.0,True,True,1st Class Passenger,26.55,Southampton,Businessman,unknown,True
-341,"DANBOM, Master Gilbert Sigvard Emanuel",Male,0.3,False,True,3rd Class Passenger,14.4,Southampton,unknown,unknown,False
+341,"DANBOM, Master Gilbert Sigvard Emanuel",Male,0.333,False,True,3rd Class Passenger,14.4,Southampton,unknown,unknown,False
 340,"DANBOM, Mrs Anna Sigrid Maria",Female,28.0,True,True,3rd Class Passenger,14.4,Southampton,unknown,unknown,False
 342,"DANBOM, Mr Ernst Gilbert",Male,34.0,True,True,3rd Class Passenger,14.4,Southampton,General Labourer,[197],False
 1656,"DANIEL, Mr Robert Williams",Male,27.0,True,True,1st Class Passenger,30.5,Southampton,unknown,3,True
@@ -518,7 +518,7 @@
 358,"DE PELSMAEKER, MrAlfons",Male,16.0,False,True,3rd Class Passenger,9.5,Southampton,Farm Labourer,unknown,False
 359,"DEACON, Mr Percy William",Male,17.0,False,True,2nd Class Passenger,73.5,Southampton,Baker,unknown,False
 1667,"DEAN, Master Bertram Vere",Male,1.0,False,True,3rd Class Passenger,20.575,Southampton,unknown,10,True
-1668,"DEAN, Miss Elizabeth Gladys Millvina",Female,0.2,False,True,3rd Class Passenger,20.575,Southampton,unknown,10,True
+1668,"DEAN, Miss Elizabeth Gladys Millvina",Female,0.167,False,True,3rd Class Passenger,20.575,Southampton,unknown,10,True
 1669,"DEAN, Mrs Eva Georgetta",Female,32.0,True,True,3rd Class Passenger,20.575,Southampton,unknown,10,True
 361,"DEAN, Mr Bertram Frank",Male,25.0,True,True,3rd Class Passenger,20.575,Southampton,Farmer,unknown,False
 360,"DEAN, Mr George Fox Hopkins",Male,19.0,True,False,Victualling Crew,0.0,Southampton,Assistant Saloon Steward,[252],False
@@ -1527,7 +1527,7 @@
 1041,"PATCHETT, Mr George",Male,18.0,True,True,3rd Class Passenger,14.5,Southampton,Shoemaker,unknown,False
 1042,"PAVLOVIĆ, Mr Stefo",Male,32.0,True,True,3rd Class Passenger,7.895833333333333,Southampton,General Labourer,unknown,False
 1043,"PAYNE, Mr Vivian Ponsonby",Male,23.0,True,True,1st Class Passenger,93.5,Southampton,Clerk,unknown,False
-1045,"PEACOCK, Master Albert Edward",Male,0.6,False,True,3rd Class Passenger,13.775,Southampton,unknown,unknown,False
+1045,"PEACOCK, Master Albert Edward",Male,0.583,False,True,3rd Class Passenger,13.775,Southampton,unknown,unknown,False
 1046,"PEACOCK, Miss Treasteall",Female,4.0,False,True,3rd Class Passenger,13.775,Southampton,unknown,unknown,False
 1044,"PEACOCK, Mrs Edith",Female,26.0,True,True,3rd Class Passenger,13.775,Southampton,unknown,unknown,False
 1048,"PEARCE, Mr Alfred Ernest",Male,24.0,True,False,Victualling Crew,0.0,Southampton,Steward,unknown,False
@@ -1661,7 +1661,7 @@
 1126,"RICE, Mr John Reginald",Male,25.0,True,False,Victualling Crew,0.0,Southampton,1st Class Clerk,[64],False
 1129,"RICE, Mr Percy",Male,19.0,True,False,Victualling Crew,0.0,Southampton,3rd Class Steward,unknown,False
 1133,"RICHARD, Mr Emile Phillippe",Male,23.0,True,True,2nd Class Passenger,15.045833333333333,Cherbourg,unknown,unknown,False
-2038,"RICHARDS, Master Sibley George",Male,0.8,False,True,2nd Class Passenger,18.75,Southampton,unknown,4,True
+2038,"RICHARDS, Master Sibley George",Male,0.75,False,True,2nd Class Passenger,18.75,Southampton,unknown,4,True
 2039,"RICHARDS, Master William Rowe",Male,3.0,False,True,2nd Class Passenger,18.75,Southampton,unknown,4,True
 2040,"RICHARDS, Mrs Emily",Female,24.0,True,True,2nd Class Passenger,18.75,Southampton,unknown,4,True
 1134,"RICHARDS, Mr Joseph James",Male,30.0,True,False,Engineering Crew,0.0,Southampton,Fireman,unknown,False
@@ -1938,7 +1938,7 @@
 1322,"SØHOLT, Mr Peter Andreas Lauritz Andersen",Male,19.0,True,True,3rd Class Passenger,7.65,Southampton,Carpenter / Joiner,unknown,False
 1323,"TALBOT, Mr George Frederick Charles",Male,20.0,True,False,Victualling Crew,0.0,Southampton,Steward,[150],False
 1324,"TAMLYN, Mr Frederick",Male,23.0,True,False,Deck Crew,0.0,Southampton,Mess Steward (Deck Dept.),[123],False
-2124,"TANNŪS, Master As'ad",Male,0.4,False,True,3rd Class Passenger,8.516666666666667,Cherbourg,unknown,16,True
+2124,"TANNŪS, Master As'ad",Male,0.417,False,True,3rd Class Passenger,8.516666666666667,Cherbourg,unknown,16,True
 2125,"TANNŪS, Mrs Thamīn",Female,16.0,False,True,3rd Class Passenger,8.516666666666667,Cherbourg,unknown,14,True
 1326,"TANNŪS, Mr Bashīr",Male,30.0,True,True,3rd Class Passenger,6.4375,Cherbourg,Dealer,unknown,False
 2126,"TAUSSIG, Miss Ruth",Female,18.0,True,True,1st Class Passenger,79.65,Southampton,unknown,8,True
@@ -2094,7 +2094,7 @@
 2171,"WELLS, Mrs Addie Dart",Female,29.0,True,True,2nd Class Passenger,23.0,Southampton,unknown,14,True
 1433,"WENDEL, Mr Olof Edvin",Male,20.0,True,True,3rd Class Passenger,7.854166666666666,Southampton,General Labourer,unknown,False
 2172,"WENNERSTRÖM, Mr August",Male,27.0,True,True,3rd Class Passenger,7.795833333333333,Southampton,unknown,A,True
-2173,"WEST, Miss Barbara Joyce",Female,0.8,False,True,2nd Class Passenger,27.75,Southampton,unknown,11,True
+2173,"WEST, Miss Barbara Joyce",Female,0.833,False,True,2nd Class Passenger,27.75,Southampton,unknown,11,True
 2174,"WEST, Miss Constance Miriam",Female,4.0,False,True,2nd Class Passenger,27.75,Southampton,unknown,11,True
 2175,"WEST, Mrs Ada Mary",Female,33.0,True,True,2nd Class Passenger,27.75,Southampton,unknown,11,True
 1434,"WEST, Mr Edwy Arthur",Male,36.0,True,True,2nd Class Passenger,27.75,Southampton,unknown,unknown,False
